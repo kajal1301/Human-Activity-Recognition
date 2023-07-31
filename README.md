@@ -6,7 +6,7 @@ This Project is to build a model that predicts human activities such as Walking,
 
 This Dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
 
-** Link for the dataset:- 
+ ##### Link for the dataset:- 
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones ,
 unzip and put whole data file in same folder.
 
